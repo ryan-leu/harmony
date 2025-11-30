@@ -18,6 +18,7 @@ develop-eggs/
 dist/
 eggs/
 lib/
+!demo/harmony-demo/src/lib
 lib64/
 parts/
 sdist/
